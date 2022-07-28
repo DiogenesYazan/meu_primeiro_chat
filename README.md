@@ -11,9 +11,10 @@
 ###
 
 <p align="left">✨ Siga o passo a passo do video e se for fazer via local mudar as configurações do DB:</p>
+video https://www.youtube.com/watch?v=8brkoQFWk8M
 
 ```
-ChatApp\php\config.php
+php\config.php
 ```
 
 ###
